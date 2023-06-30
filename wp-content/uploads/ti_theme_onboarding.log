@@ -1,0 +1,17 @@
+[29/Jun/2023:09:25:22] (I): WordPress Instance Info:
+[29/Jun/2023:09:25:22] (I): Home URL : http://localhost/red/wordpress
+[29/Jun/2023:09:25:22] (I): Site URL : http://localhost/red/wordpress
+[29/Jun/2023:09:25:22] (I): WordPress Version : 6.2.2
+[29/Jun/2023:09:25:22] (I): Onboarding Version : 1.1.39
+[29/Jun/2023:09:25:22] (I): Multisite : No
+[29/Jun/2023:09:25:22] (I): Server Info : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+[29/Jun/2023:09:25:22] (I): PHP Version : 8.2.4
+[29/Jun/2023:09:25:22] (I): HTTPS : No
+[29/Jun/2023:09:25:22] (I): PHP Max Execution Time : 120
+[29/Jun/2023:09:25:22] (I): PHP Max Input Vars : 1000
+[29/Jun/2023:09:25:22] (I): Max Upload Size : 41943040
+[29/Jun/2023:09:25:22] (I): Plugins:
+[29/Jun/2023:09:25:22] (I): [PLUGIN] Content Blocks (Custom Post Widget) : v3.2.5 (Johan van der Wijk)
+[29/Jun/2023:09:25:22] (I): [PLUGIN] Image optimization service by Optimole : v3.8.1 (Optimole)
+[29/Jun/2023:09:25:22] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.3.1 (ThemeIsle)
+[29/Jun/2023:09:25:22] (I): [PLUGIN] Templates Patterns Collection : v1.1.39 (ThemeIsle)
